@@ -1,0 +1,3 @@
+Our project centers around creating a functional temperature sensing system. This involves selecting suitable temperature sensors, interfacing them with digital circuits, and employing programming languages like VHDL to process the sensor data. 
+The purpose of the project is designing VHDL code, using LM35 temperature sensor, ADC 0808 to convert analog signal from the LM35 sensor to digital signal, Serial Port Monitor v1.5 to convert binary output to decimal output, 2 7-segment LEDs to display temperature measured from the LM35 sensor
+Design a realistic simulation circuit using the EPM240T100C5 Chip Board and basic electronic components .	
